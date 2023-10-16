@@ -1,0 +1,11 @@
+C:\Users\amir\source\repos\fibonachi\fibonachi\bin\Debug\fibonachi.exe.config
+C:\Users\amir\source\repos\fibonachi\fibonachi\bin\Debug\fibonachi.exe
+C:\Users\amir\source\repos\fibonachi\fibonachi\bin\Debug\fibonachi.pdb
+C:\Users\amir\source\repos\fibonachi\fibonachi\obj\Debug\fibonachi.csproj.AssemblyReference.cache
+C:\Users\amir\source\repos\fibonachi\fibonachi\obj\Debug\fibonachi.csproj.SuggestedBindingRedirects.cache
+C:\Users\amir\source\repos\fibonachi\fibonachi\obj\Debug\fibonachi.Form1.resources
+C:\Users\amir\source\repos\fibonachi\fibonachi\obj\Debug\fibonachi.Properties.Resources.resources
+C:\Users\amir\source\repos\fibonachi\fibonachi\obj\Debug\fibonachi.csproj.GenerateResource.cache
+C:\Users\amir\source\repos\fibonachi\fibonachi\obj\Debug\fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\fibonachi\fibonachi\obj\Debug\fibonachi.exe
+C:\Users\amir\source\repos\fibonachi\fibonachi\obj\Debug\fibonachi.pdb
